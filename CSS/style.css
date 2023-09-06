@@ -1,0 +1,14 @@
+h2 {
+    background-color: deeppink;
+    color: aliceblue;
+    opacity: 50%;
+}
+
+h3 {
+    color: darkgoldenrod;
+}
+table, th, td {
+    border: 1px solid black;
+    color: blue;
+    border-collapse: collapse;
+  }
